@@ -1,6 +1,6 @@
-apiVersion: v2
+apiVersion: v2 #since we are using Helm3
 name: guestbook
-appVersion: "1.0"
+appVersion: "1.0" #version of our application
 description: A Helm chart for Guestbook 1.0 
-version: 0.1.0
+version: 0.1.0 #version of the chart
 type: application
